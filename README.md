@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌾 Gmail Farmer BDT</h1>
+ <h1>Gmail Farmer BDT</h1>
 
   <p><b>Bilingual Telegram Bot for Automated Account Credential Synthesis & Task Logging</b></p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Gmail Farmer BDT** is an asynchronous Telegram bot service built to streamline micro-task management, synthetic test account creation, and user reward tracking. Supporting dynamic bilingual user sessions in both English and Bengali, the bot generates structured synthetic account profiles (first name, email, strong password, and recovery address) on demand.
 
@@ -26,17 +26,17 @@ Designed for non-blocking execution, it utilizes `ApplicationBuilder` from `pyth
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🌐 **Bilingual Interface** — Interactive language switcher supporting English and Bengali (বাংলা) with persistent session dictionaries.
-- ⚡ **Synthetic Credential Engine** — Generates standardized test account pairs with deterministic recovery credentials and secure random passwords.
-- 📱 **Interactive Custom Keyboards** — Fast touch navigation via `ReplyKeyboardMarkup` for seamless mobile user interaction.
-- 🔐 **Environment Configuration** — Secure token handling reading from `os.environ` preventing credential leakage in source control.
-- 🔄 **Async Event Loop** — High-concurrency polling loop capable of handling multiple simultaneous Telegram users.
+- **Bilingual Interface** — Interactive language switcher supporting English and Bengali (বাংলা) with persistent session dictionaries.
+- **Synthetic Credential Engine** — Generates standardized test account pairs with deterministic recovery credentials and secure random passwords.
+- **Interactive Custom Keyboards** — Fast touch navigation via `ReplyKeyboardMarkup` for seamless mobile user interaction.
+- **Environment Configuration** — Secure token handling reading from `os.environ` preventing credential leakage in source control.
+- **Async Event Loop** — High-concurrency polling loop capable of handling multiple simultaneous Telegram users.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Designed for non-blocking execution, it utilizes `ApplicationBuilder` from `pyth
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Python**: `>= 3.10`
@@ -77,10 +77,10 @@ Designed for non-blocking execution, it utilizes `ApplicationBuilder` from `pyth
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
-<p align="center">Made with ❤️ by Partho</p>
+<p align="center">Built by Partho</p>
